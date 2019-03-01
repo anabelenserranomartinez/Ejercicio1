@@ -1,0 +1,50 @@
+body {
+	background-image: url("fotoportada.JPG");
+	background-attachment: fixed;
+}
+
+ul {
+	background: hsla(0, 0%, 0%, 0.3); list-style-type : none;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+li {
+	float: left;
+}
+
+li a {
+	color: white;
+	display: inline-block;
+	font-family: "Courier New";
+	padding: 20px;
+	font-size: 20px;
+	text-decoration: none;
+	text-align: center;
+	font-weight: bold;
+}
+
+.logo {
+	float: left;
+	width: 5%;
+}
+
+.frase {
+	text-align: center;
+	font-family: "Courier New";
+	font-size: 20px;
+	font-style: oblique;
+	padding: 15%;
+}
+
+.footer {
+	background-color: transparent;
+	font-family: "Courier New";
+	font-style: oblique;
+	font-weight: bold;
+	width: 100%;
+	float: left;
+	padding: 10%;
+}
