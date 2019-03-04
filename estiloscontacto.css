@@ -1,0 +1,16 @@
+.tabla {
+	color: black;
+	position:absolute;
+	width: 200px;
+	top: 265px;
+	left: 475px;
+	
+}
+
+.foto {
+	position:absolute;
+	width: 350px;
+	top: 200px;
+	left: 75px;
+	
+}

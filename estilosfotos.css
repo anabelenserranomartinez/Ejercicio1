@@ -1,0 +1,44 @@
+.foto1 {
+	position:absolute;
+	width: 350px;
+	top: 100px;
+	left: 75px;
+
+}
+
+.foto2 {
+	position:absolute;
+	width: 350px;
+	top: 100px;
+	left: 475px;
+}
+
+.foto3 {
+	position:absolute;
+	width: 350px;
+	top: 100px;
+	left: 875px;
+}
+
+
+.foto4 {
+	position:absolute;
+	width: 350px;
+	top: 375px;
+	left:75px;
+
+}
+
+.foto5 {
+	position:absolute;
+	width: 350px;
+	top: 375px;
+	left: 475px;
+}
+
+.foto6 {
+	position:absolute;
+	width: 350px;
+	top: 375px;
+	left: 875px;
+}

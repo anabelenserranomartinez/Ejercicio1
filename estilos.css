@@ -44,7 +44,9 @@ li a {
 	font-family: "Courier New";
 	font-style: oblique;
 	font-weight: bold;
+	position: absolute;
 	width: 100%;
 	float: left;
-	padding: 10%;
+	padding: 0%;
+	bottom: 0%;
 }
